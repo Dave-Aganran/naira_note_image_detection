@@ -1,0 +1,39 @@
+# Assignment / submission files
+assignment.txt
+*.docx
+generate_report.py
+
+# Claude Code internals
+.claude/
+
+# Pretrained base weights (downloadable from Ultralytics)
+yolov8n.pt
+yolo26n.pt
+
+# Virtual environment
+computerVision/
+
+# YOLO training runs (large logs/weights — best.pt copied to weights/)
+runs/
+
+# Dataset images (too large for GitHub — labels and yaml kept)
+datasets/naira/images/
+/Naira/
+/naira_notes_images/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dataset cache files
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

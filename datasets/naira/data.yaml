@@ -1,0 +1,6 @@
+path: C:\Users\DELL\OneDrive\Documents\Python\PAU\Tools and Platform\Computer Vision\datasets\naira
+train: images/train
+val: images/val
+test: images/test
+nc: 8
+names: ['5_Naira', '10_Naira', '20_Naira', '50_Naira', '100_Naira', '200_Naira', '500_Naira', '1000_Naira']
